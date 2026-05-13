@@ -11,4 +11,5 @@ things.txt
 *.log
 /tmp/
 .claude
+claude.md
 .venv/
